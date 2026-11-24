@@ -1,0 +1,19 @@
+# Puntos de control de Jupyter
+.ipynb_checkpoints/
+
+# Archivos compilados de Python
+__pycache__/
+*.pyc
+
+# Entornos virtuales
+.venv/
+venv/
+env/
+
+# Configuración de editores
+.vscode/
+.idea/
+
+# Archivos del sistema operativo
+.DS_Store
+Thumbs.db
